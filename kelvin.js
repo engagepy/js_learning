@@ -1,3 +1,8 @@
+// Learn to assign values to variables, and use them to print out messages to the terminal.
+// Types include const, let, var
+// const is a constant value that cannot be changed
+// let is a variable that can be changed
+
 //constant kelvin value
 const kelvin = 311;
 
@@ -7,6 +12,10 @@ let celsius = kelvin - 273;
 let fahrenheit = Math.floor(celsius*(9/5)+32);
 
 let newton = Math.floor(celsius*(33/100))
+
+//String interpolation syntax is ${variable}
+//console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+//This helps to print out the temperature in fahrenheit using string interpolation
 
 console.log(`The temperature is
 
