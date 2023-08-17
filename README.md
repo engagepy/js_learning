@@ -9,3 +9,4 @@
 - [x] if_else_if.js
 - [x] switch_case.js
 - [x] crystalBall.js
+- [x] raceNumber.js
