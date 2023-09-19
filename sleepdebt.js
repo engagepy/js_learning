@@ -49,4 +49,3 @@ const getSleepHours = day => {
     }
     
   console.log(calculateSleepDebt());
-  
