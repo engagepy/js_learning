@@ -19,3 +19,4 @@
 - [x] for_if_break.js
 - [x] whale_loop_array_if.js
 - [x] higher_order_functions.js
+- [x] array_methods #all
