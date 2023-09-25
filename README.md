@@ -12,3 +12,9 @@
 - [x] raceNumber.js
 - [x] rocker_paper_scissor.js
 - [x] sleepdebt.js
+- [x] nested_loops.js
+- [x] repeat.js
+- [x] training_days.js
+- [x] do_while_loop.js
+- [x] for_if_break.js
+- [x] whale_loop_array_if.js
