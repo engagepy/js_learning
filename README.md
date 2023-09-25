@@ -20,3 +20,6 @@
 - [x] whale_loop_array_if.js
 - [x] higher_order_functions.js
 - [x] array_methods #all
+- [x] object_methods #some
+- [x] for_in.js
+
