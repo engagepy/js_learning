@@ -25,3 +25,4 @@
 - [x] this.js
 - [x] getter_function.js
 - [x] factory_property_shorthand.js
+- [x] objects_builtin.js
