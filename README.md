@@ -22,4 +22,6 @@
 - [x] array_methods #all
 - [x] object_methods #some
 - [x] for_in.js
-
+- [x] this.js
+- [x] getter_function.js
+- [x] factory_property_shorthand.js
