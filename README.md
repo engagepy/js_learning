@@ -31,4 +31,6 @@
 - [x] add_remove_element.js
 - [x] chore_door_game.js
 - [x] addEventListener.js   
+- [x] onclick_addEventListener.js  
+
 
