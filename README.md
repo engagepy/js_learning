@@ -26,4 +26,6 @@
 - [x] getter_function.js
 - [x] factory_property_shorthand.js
 - [x] objects_builtin.js
+- [x] obj_set_get_final.js
+- [x] obj_final.js    
 
