@@ -28,4 +28,7 @@
 - [x] objects_builtin.js
 - [x] obj_set_get_final.js
 - [x] obj_final.js    
+- [x] add_remove_element.js
+- [x] chore_door_game.js
+- [x] addEventListener.js   
 
